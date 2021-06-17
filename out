@@ -1,0 +1,257 @@
+An empty hypergraph is created!
+Lambda threshold: 5223.04 9088.99
+Try z = 194.591
+z = 194.591
+init size0
+Print degree and total samples: 0 0 1 1 194.591 1
+Sketch reduce:1 1 1
+Lower bound: -0.680652
+Assessment bound: -0.097236 2
+Print degree and total samples: 0 0 2 2 194.591 1
+Sketch reduce:2 2 1
+Lower bound: -0.515901
+Assessment bound: -0.0737001 2
+Print degree and total samples: 0 0 3 3 194.591 1
+Sketch reduce:3 3 1
+Lower bound: -0.415362
+Assessment bound: -0.0593375 2
+Print degree and total samples: 0 0 4 4 194.591 1
+Sketch reduce:4 4 1
+Lower bound: -0.347619
+Assessment bound: -0.0496598 2
+Print degree and total samples: 0 0 5 5 194.591 1
+Sketch reduce:5 5 1
+Lower bound: -0.298874
+Assessment bound: -0.0426962 2
+Print degree and total samples: 0 0 6 6 194.591 1
+Sketch reduce:6 6 1
+Lower bound: -0.262118
+Assessment bound: -0.0374454 2
+Print degree and total samples: 0 0 7 7 194.591 1
+Sketch reduce:7 7 1
+Lower bound: -0.233413
+Assessment bound: -0.0333447 2
+Print degree and total samples: 0 0 8 8 194.591 1
+Sketch reduce:8 8 1
+Lower bound: -0.210374
+Assessment bound: -0.0300535 2
+Print degree and total samples: 0 0 9 9 194.591 1
+Sketch reduce:9 9 1
+Lower bound: -0.191475
+Assessment bound: -0.0273536 2
+Print degree and total samples: 0 0 10 10 194.591 1
+Sketch reduce:10 10 1
+Lower bound: -0.175692
+Assessment bound: -0.0250988 2
+Print degree and total samples: 0 0 11 11 194.591 1
+Sketch reduce:11 11 1
+Lower bound: -0.162312
+Assessment bound: -0.0231874 2
+Print degree and total samples: 0 0 12 12 194.591 1
+Sketch reduce:12 12 1
+Lower bound: -0.150826
+Assessment bound: -0.0215466 2
+Print degree and total samples: 0 0 14 14 194.591 1
+Sketch reduce:14 14 1
+Lower bound: -0.132126
+Assessment bound: -0.0188752 2
+Print degree and total samples: 0 0 15 15 194.591 1
+Sketch reduce:15 15 1
+Lower bound: -0.124414
+Assessment bound: -0.0177734 2
+Print degree and total samples: 0 0 16 16 194.591 1
+Sketch reduce:16 16 1
+Lower bound: -0.117552
+Assessment bound: -0.0167932 2
+Print degree and total samples: 0 0 18 18 194.591 1
+Sketch reduce:18 18 1
+Lower bound: -0.105874
+Assessment bound: -0.0151248 2
+Print degree and total samples: 0 0 20 20 194.591 1
+Sketch reduce:20 20 1
+Lower bound: -0.0963059
+Assessment bound: -0.013758 2
+Print degree and total samples: 0 0 22 22 194.591 1
+Sketch reduce:22 22 1
+Lower bound: -0.0883241
+Assessment bound: -0.0126177 2
+Print degree and total samples: 0 0 24 24 194.591 1
+Sketch reduce:24 24 1
+Lower bound: -0.0815641
+Assessment bound: -0.011652 2
+Print degree and total samples: 0 0 26 26 194.591 1
+Sketch reduce:26 26 1
+Lower bound: -0.0757653
+Assessment bound: -0.0108236 2
+Print degree and total samples: 0 0 29 29 194.591 1
+Sketch reduce:29 29 1
+Lower bound: -0.0684641
+Assessment bound: -0.00978059 2
+Print degree and total samples: 0 0 31 31 194.591 1
+Sketch reduce:31 31 1
+Lower bound: -0.0643312
+Assessment bound: -0.00919017 2
+Print degree and total samples: 0 0 35 35 194.591 1
+Sketch reduce:35 35 1
+Lower bound: -0.0574011
+Assessment bound: -0.00820016 2
+Print degree and total samples: 0 0 38 38 194.591 1
+Sketch reduce:38 38 1
+Lower bound: -0.0531101
+Assessment bound: -0.00758716 2
+Print degree and total samples: 0 0 42 42 194.591 1
+Sketch reduce:42 42 1
+Lower bound: -0.0482963
+Assessment bound: -0.00689947 2
+Print degree and total samples: 0 0 46 46 194.591 1
+Sketch reduce:46 46 1
+Lower bound: -0.0442826
+Assessment bound: -0.00632608 2
+Print degree and total samples: 0 0 50 50 194.591 1
+Sketch reduce:50 50 1
+Lower bound: -0.0408848
+Assessment bound: -0.00584069 2
+Print degree and total samples: 0 0 55 55 194.591 1
+Sketch reduce:55 55 1
+Lower bound: -0.0373067
+Assessment bound: -0.00532953 2
+Print degree and total samples: 0 0 61 61 194.591 1
+Sketch reduce:61 61 1
+Lower bound: -0.0337611
+Assessment bound: -0.00482301 2
+Print degree and total samples: 0 0 67 67 194.591 1
+Sketch reduce:67 67 1
+Lower bound: -0.0308309
+Assessment bound: -0.00440441 2
+Print degree and total samples: 0 0 73 73 194.591 1
+Sketch reduce:73 73 1
+Lower bound: -0.0283687
+Assessment bound: -0.00405268 2
+Print degree and total samples: 0 0 81 81 194.591 1
+Sketch reduce:81 81 1
+Lower bound: -0.0256387
+Assessment bound: -0.00366267 2
+Print degree and total samples: 0 0 89 89 194.591 1
+Sketch reduce:89 89 1
+Lower bound: -0.023388
+Assessment bound: -0.00334115 2
+Print degree and total samples: 0 0 98 98 194.591 1
+Sketch reduce:98 98 1
+Lower bound: -0.0212859
+Assessment bound: -0.00304084 2
+Print degree and total samples: 0 0 107 107 194.591 1
+Sketch reduce:107 107 1
+Lower bound: -0.0195304
+Assessment bound: -0.00279006 2
+Print degree and total samples: 0 0 118 118 194.591 1
+Sketch reduce:118 118 1
+Lower bound: -0.0177421
+Assessment bound: -0.00253458 2
+Print degree and total samples: 0 0 130 130 194.591 1
+Sketch reduce:130 130 1
+Lower bound: -0.0161308
+Assessment bound: -0.0023044 2
+Print degree and total samples: 0 0 143 143 194.591 1
+Sketch reduce:143 143 1
+Lower bound: -0.0146859
+Assessment bound: -0.00209798 2
+Print degree and total samples: 0 0 157 157 194.591 1
+Sketch reduce:157 157 1
+Lower bound: -0.0133939
+Assessment bound: -0.00191341 2
+Print degree and total samples: 0 0 172 172 194.591 1
+Sketch reduce:172 172 1
+Lower bound: -0.0122401
+Assessment bound: -0.00174858 2
+Print degree and total samples: 0 0 190 190 194.591 1
+Sketch reduce:190 190 1
+Lower bound: -0.0110934
+Assessment bound: -0.00158477 2
+Select 0
+Clean removed edges
+Print degree and total samples: 195 0 195 195 194.591 1
+Sketch reduce:195 195 1
+Lower bound: -0.010812
+Assessment bound: -0.00154457 2
+Print degree and total samples: 195 0 195 195 195 195
+Sketch reduce:195 195 1
+DEG and Z: 195 194.591
+Computing upper bound: 0.0327905 0.0349765 1.01998
+Upper bound: 1.01998
+Try z = 389.182
+z = 389.182
+init size195
+Print degree and total samples: 0 1 1 1 195 195
+Sketch reduce:195 196 0.994898
+Lower bound: -0.361304
+Assessment bound: -0.354226 1.0021
+Print degree and total samples: 0 2 2 2 195 195
+Sketch reduce:195 197 0.989848
+Lower bound: -0.214979
+Assessment bound: -0.210767 1.0021
+Print degree and total samples: 0 3 3 3 195 195
+Sketch reduce:195 198 0.984848
+Lower bound: -0.109562
+Assessment bound: -0.107416 1.0021
+Print degree and total samples: 0 4 4 4 195 195
+Sketch reduce:195 199 0.979899
+Lower bound: -0.0209783
+Assessment bound: -0.0205673 1.0021
+Print degree and total samples: 0 5 5 5 195 195
+Sketch reduce:195 200 0.975
+Lower bound: 0.054507
+Assessment bound: 0.0534392 1.0021
+Print degree and total samples: 0 6 6 6 195 195
+Sketch reduce:195 201 0.970149
+Lower bound: 0.119599
+Assessment bound: 0.117256 1.0021
+Print degree and total samples: 0 7 7 7 195 195
+Sketch reduce:195 202 0.965347
+Lower bound: 0.176305
+Assessment bound: 0.172852 1.0021
+Print degree and total samples: 0 8 8 8 195 195
+Sketch reduce:195 203 0.960591
+Lower bound: 0.226149
+Assessment bound: 0.221719 1.0021
+Print degree and total samples: 0 9 9 9 195 195
+Sketch reduce:195 204 0.955882
+Lower bound: 0.270305
+Assessment bound: 0.26501 1.0021
+Print degree and total samples: 0 10 10 10 195 195
+Sketch reduce:195 205 0.95122
+Lower bound: 0.309693
+Assessment bound: 0.303627 1.0021
+Print degree and total samples: 0 11 11 11 195 195
+Sketch reduce:195 206 0.946602
+Lower bound: 0.345048
+Assessment bound: 0.338288 1.0021
+Print degree and total samples: 0 12 12 12 195 195
+Sketch reduce:195 207 0.942029
+Lower bound: 0.376957
+Assessment bound: 0.369572 1.0021
+Print degree and total samples: 0 14 14 14 195 195
+Sketch reduce:195 209 0.933014
+Lower bound: 0.432276
+Assessment bound: 0.423807 1.0021
+Print degree and total samples: 0 15 15 15 195 195
+Sketch reduce:195 210 0.928571
+Lower bound: 0.456408
+Assessment bound: 0.447467 1.0021
+Print degree and total samples: 0 16 16 16 195 195
+Sketch reduce:195 211 0.924171
+Lower bound: 0.478572
+Assessment bound: 0.469197 1.0021
+Print degree and total samples: 0 18 18 18 195 195
+Sketch reduce:195 213 0.915493
+Lower bound: 0.517887
+Assessment bound: 0.507742 1.0021
+Print degree and total samples: 0 20 20 20 195 195
+Sketch reduce:195 215 0.906977
+Lower bound: 0.55169
+Assessment bound: 0.540882 1.0021
+Estimated value: 7
+Seed Nodes: 0 
+Influence: 7.00
+Time: 0
+Memory: 23.5664
+Samples: 215
